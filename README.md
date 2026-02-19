@@ -4,7 +4,7 @@ Merhaba 👋
 Ben **Fatih Yaşar**. Yazılım geliştirme, WordPress ve siber güvenlik alanlarında çalışmalar yapıyorum.  
 Kişisel web sitemde projelerim, teknik yazılarım ve profesyonel çalışmalarım yer almaktadır.
 
-🌐 Kişisel Web Sitesi: https://xn--fatihyaar-62b.com.tr/
+🌐 Kişisel Web Sitesi:  [Fatih Yaşar](https://fatihyasar.com.tr/)
 
 ---
 
@@ -23,6 +23,6 @@ Yerli ve Milli, Güvenli, hızlı ve sürdürülebilir dijital çözümler üret
 ---
 
 ## 🔗 Bana Ulaşın
-- 🌐 Web: https://xn--fatihyaar-62b.com.tr/
+- 🌐 Web: [Fatih Yaşar](https://fatihyasar.com.tr/)
 - 💼 LinkedIn: https://www.linkedin.com/in/fatih-yasar/
 - 🐦 X (Twitter): https://x.com/TRojen610
